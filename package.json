@@ -1,0 +1,17 @@
+{
+  "name": "ler_arquivo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.3.1",
+    "pg": "^7.17.1",
+    "xml2js": "^0.4.23"
+  }
+}
